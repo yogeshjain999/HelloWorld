@@ -1,2 +1,5 @@
 puts 'bye world'
+<<<<<<< HEAD
 __FILE__
+=======
+>>>>>>> fdf2aaef3d2b97fb7e94be1b2d50a39a855fef9a
