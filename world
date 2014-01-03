@@ -1,1 +1,2 @@
 puts 'bye world'
+__FILE__
