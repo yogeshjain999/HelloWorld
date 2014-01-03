@@ -1,1 +1,1 @@
-bye world
+puts 'bye world'
