@@ -1,0 +1,3 @@
+[submodule "jmdb"]
+	path = jmdb
+	url = git@github.com:yogeshjain999/jmdb.git
